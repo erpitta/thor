@@ -389,6 +389,15 @@
         <mxCell id="ZeCAVmMYtNX-xgTvyP3x-143" value="Initial Mach number" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;startSize=30;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="1139" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZeCAVmMYtNX-xgTvyP3x-147" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;New parameters&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;i&gt;hydraulic diameter, total temperature, dynamic viscosity, friction factor&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;startSize=30;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="522.5" y="1190" width="195" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeCAVmMYtNX-xgTvyP3x-148" value="Vector &lt;b&gt;Forcers&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;startSize=30;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeCAVmMYtNX-xgTvyP3x-149" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;MCI&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Matrix of the Coefficients of Influence&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;startSize=30;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="561.25" y="1350" width="117.5" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
