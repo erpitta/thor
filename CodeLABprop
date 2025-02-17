@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="26.0.14">
   <diagram name="Pagina-1" id="QTekA09vYRjcAgi8TQVg">
-    <mxGraphModel dx="1131" dy="1417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="771" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZeCAVmMYtNX-xgTvyP3x-13" value="Known Parameters" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ZeCAVmMYtNX-xgTvyP3x-13" value="Known Parameters" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;fontSize=16;strokeWidth=2;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="396.0000000000002" height="210" as="geometry" />
         </mxCell>
         <mxCell id="ZeCAVmMYtNX-xgTvyP3x-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="ZeCAVmMYtNX-xgTvyP3x-13">
@@ -488,6 +488,9 @@
         </mxCell>
         <mxCell id="ZeCAVmMYtNX-xgTvyP3x-176" value="Total Pressure" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="ZeCAVmMYtNX-xgTvyP3x-173">
           <mxGeometry y="80" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeCAVmMYtNX-xgTvyP3x-179" value="Diagrams along the length of the solid fuel and of the burning time&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1040" width="320" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
